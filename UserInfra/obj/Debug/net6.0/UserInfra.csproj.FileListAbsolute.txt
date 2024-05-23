@@ -1,0 +1,17 @@
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\bin\Debug\net6.0\UserInfra.deps.json
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\bin\Debug\net6.0\UserInfra.runtimeconfig.json
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\bin\Debug\net6.0\UserInfra.dll
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\bin\Debug\net6.0\UserInfra.pdb
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\bin\Debug\net6.0\Domain.dll
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\bin\Debug\net6.0\Domain.pdb
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\UserInfra.csproj.AssemblyReference.cache
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\UserInfra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\UserInfra.AssemblyInfoInputs.cache
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\UserInfra.AssemblyInfo.cs
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\UserInfra.csproj.CoreCompileInputs.cache
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\UserInfra.csproj.Up2Date
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\UserInfra.dll
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\refint\UserInfra.dll
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\UserInfra.pdb
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\UserInfra.genruntimeconfig.cache
+E:\Rehan\Project\repo\UserCarManagementAPI\UserInfra\obj\Debug\net6.0\ref\UserInfra.dll

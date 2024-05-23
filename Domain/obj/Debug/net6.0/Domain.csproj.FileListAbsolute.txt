@@ -1,0 +1,12 @@
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\bin\Debug\net6.0\Domain.dll
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\obj\Debug\net6.0\Domain.dll
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Rehan\Project\repo\UserCarManagementAPI\Domain\obj\Debug\net6.0\ref\Domain.dll

@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C4423C-FCAE-4A87-AB1A-70DF5E840347}|xUnitUserCarManagementAPI\\xUnitUserCarManagementAPI.csproj|e:\\rehan\\project\\repo\\usercarmanagementapi\\xunitusercarmanagementapi\\controller\\usercarinfocontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C4423C-FCAE-4A87-AB1A-70DF5E840347}|xUnitUserCarManagementAPI\\xUnitUserCarManagementAPI.csproj|solutionrelative:xunitusercarmanagementapi\\controller\\usercarinfocontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1AF66D-15ED-46BB-BE26-3A10E7D150AC}|UserCarManagementAPI\\UserCarManagementAPI.csproj|e:\\rehan\\project\\repo\\usercarmanagementapi\\usercarmanagementapi\\controllers\\usercarinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1AF66D-15ED-46BB-BE26-3A10E7D150AC}|UserCarManagementAPI\\UserCarManagementAPI.csproj|solutionrelative:usercarmanagementapi\\controllers\\usercarinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5664F4A9-07A5-4EC8-AF18-7F3F043F2285}|UserInfra\\UserInfra.csproj|e:\\rehan\\project\\repo\\usercarmanagementapi\\userinfra\\mapping\\mapperdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5664F4A9-07A5-4EC8-AF18-7F3F043F2285}|UserInfra\\UserInfra.csproj|solutionrelative:userinfra\\mapping\\mapperdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5664F4A9-07A5-4EC8-AF18-7F3F043F2285}|UserInfra\\UserInfra.csproj|e:\\rehan\\project\\repo\\usercarmanagementapi\\userinfra\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5664F4A9-07A5-4EC8-AF18-7F3F043F2285}|UserInfra\\UserInfra.csproj|solutionrelative:userinfra\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1AF66D-15ED-46BB-BE26-3A10E7D150AC}|UserCarManagementAPI\\UserCarManagementAPI.csproj|e:\\rehan\\project\\repo\\usercarmanagementapi\\usercarmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A1AF66D-15ED-46BB-BE26-3A10E7D150AC}|UserCarManagementAPI\\UserCarManagementAPI.csproj|solutionrelative:usercarmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5664F4A9-07A5-4EC8-AF18-7F3F043F2285}|UserInfra\\UserInfra.csproj|e:\\rehan\\project\\repo\\usercarmanagementapi\\userinfra\\repository\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5664F4A9-07A5-4EC8-AF18-7F3F043F2285}|UserInfra\\UserInfra.csproj|solutionrelative:userinfra\\repository\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F2221-3369-4D87-8F69-40E255D8395E}|Domain\\Domain.csproj|e:\\rehan\\project\\repo\\usercarmanagementapi\\domain\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030F2221-3369-4D87-8F69-40E255D8395E}|Domain\\Domain.csproj|solutionrelative:domain\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F2221-3369-4D87-8F69-40E255D8395E}|Domain\\Domain.csproj|e:\\rehan\\project\\repo\\usercarmanagementapi\\domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030F2221-3369-4D87-8F69-40E255D8395E}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F2221-3369-4D87-8F69-40E255D8395E}|Domain\\Domain.csproj|e:\\rehan\\project\\repo\\usercarmanagementapi\\domain\\interfaces\\iuserauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{030F2221-3369-4D87-8F69-40E255D8395E}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5664F4A9-07A5-4EC8-AF18-7F3F043F2285}|UserInfra\\UserInfra.csproj|e:\\rehan\\project\\repo\\usercarmanagementapi\\userinfra\\mapping\\modelprofiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5664F4A9-07A5-4EC8-AF18-7F3F043F2285}|UserInfra\\UserInfra.csproj|solutionrelative:userinfra\\mapping\\modelprofiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserCarInfoController.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserCarManagementAPI\\Controllers\\UserCarInfoController.cs",
+              "RelativeDocumentMoniker": "UserCarManagementAPI\\Controllers\\UserCarInfoController.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserCarManagementAPI\\Controllers\\UserCarInfoController.cs",
+              "RelativeToolTip": "UserCarManagementAPI\\Controllers\\UserCarInfoController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:00:42.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserCarInfoControllerUnitTest.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\xUnitUserCarManagementAPI\\Controller\\UserCarInfoControllerUnitTest.cs",
+              "RelativeDocumentMoniker": "xUnitUserCarManagementAPI\\Controller\\UserCarInfoControllerUnitTest.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\xUnitUserCarManagementAPI\\Controller\\UserCarInfoControllerUnitTest.cs",
+              "RelativeToolTip": "xUnitUserCarManagementAPI\\Controller\\UserCarInfoControllerUnitTest.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:50:21.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserCarManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UserCarManagementAPI\\appsettings.json",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserCarManagementAPI\\appsettings.json",
+              "RelativeToolTip": "UserCarManagementAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T06:13:59.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\Domain\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:17:18.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserInfra\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "UserInfra\\Repository\\CarRepository.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserInfra\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "UserInfra\\Repository\\CarRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:15:10.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModelProfiler.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserInfra\\Mapping\\ModelProfiler.cs",
+              "RelativeDocumentMoniker": "UserInfra\\Mapping\\ModelProfiler.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserInfra\\Mapping\\ModelProfiler.cs",
+              "RelativeToolTip": "UserInfra\\Mapping\\ModelProfiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:10:31.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\Domain\\CarDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\CarDTO.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\Domain\\CarDTO.cs",
+              "RelativeToolTip": "Domain\\CarDTO.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA6wCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:09:38.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapperData.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserInfra\\Mapping\\MapperData.cs",
+              "RelativeDocumentMoniker": "UserInfra\\Mapping\\MapperData.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserInfra\\Mapping\\MapperData.cs",
+              "RelativeToolTip": "UserInfra\\Mapping\\MapperData.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwDsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:09:05.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAuthenticationService.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserInfra\\Repository\\UserAuthenticationService.cs",
+              "RelativeDocumentMoniker": "UserInfra\\Repository\\UserAuthenticationService.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\UserInfra\\Repository\\UserAuthenticationService.cs",
+              "RelativeToolTip": "UserInfra\\Repository\\UserAuthenticationService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:19:29.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserAuthenticationService.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\Domain\\Interfaces\\IUserAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserAuthenticationService.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\UserCarManagementAPI\\Domain\\Interfaces\\IUserAuthenticationService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:19:15.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
