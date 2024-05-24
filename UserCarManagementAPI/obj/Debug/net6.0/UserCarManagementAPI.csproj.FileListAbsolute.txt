@@ -76,3 +76,4 @@ E:\Rehan\Project\repo\UserCarManagementAPI\UserCarManagementAPI\obj\Debug\net6.0
 E:\Rehan\Project\repo\UserCarManagementAPI\UserCarManagementAPI\obj\Debug\net6.0\UserCarManagementAPI.pdb
 E:\Rehan\Project\repo\UserCarManagementAPI\UserCarManagementAPI\obj\Debug\net6.0\UserCarManagementAPI.genruntimeconfig.cache
 E:\Rehan\Project\repo\UserCarManagementAPI\UserCarManagementAPI\obj\Debug\net6.0\ref\UserCarManagementAPI.dll
+E:\Rehan\Project\repo\UserCarManagementAPI\UserCarManagementAPI\obj\Debug\net6.0\UserCarManagementAPI.sourcelink.json
